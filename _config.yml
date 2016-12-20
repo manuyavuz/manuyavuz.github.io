@@ -16,9 +16,9 @@
 title: 'Muhammed Yavuz Nuzumlalı'
 email: manuyavuz@gmail.com
 description: |
-  Ph.D. Student @CmpeBOUN
-  Core Team Member @CocoaPods
-  iOS Tech Lead & Machine Learning Engineer @Netmera
+  Ph.D. Student <a href="https://www.cmpe.boun.edu.tr">@CmpeBOUN</a>
+  Core Team Member <a href="https://www.cocoapods.org">@CocoaPods</a>
+  iOS Tech Lead & Machine Learning Engineer <a href="https://elevate.netmera.com">@Netmera</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manuyavuz
