@@ -48,12 +48,13 @@ scholar:
   sort_by: none
   order: ascending
 
-  group_by: none
+  group_by: type
   group_order: ascending
 
   source: _bibliography
+  repository: assets
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  bibliography_template: refTemplate
 
   replace_strings: true
   join_strings:    true
