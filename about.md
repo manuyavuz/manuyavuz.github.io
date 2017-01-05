@@ -5,7 +5,7 @@ redirect_from: "/"
 permalink: /about/
 ---
 
-I am a first-year Ph.D. student of [Computer Engineering](https://cmpe.boun.edu.tr) department at [Bogazici University](https://www.boun.edu.tr) focused on Machine Learning (ML) and Natural language Processing (NLP).
+I am a first-year Ph.D. student of [Computer Engineering](https://cmpe.boun.edu.tr) department at [Bogazici University](https://www.boun.edu.tr) focused on Machine Learning (ML) and Natural Language Processing (NLP).
 
 My research interests are:
 
